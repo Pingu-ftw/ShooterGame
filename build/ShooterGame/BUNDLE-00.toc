@@ -1,0 +1,4 @@
+([('ShooterGame',
+   '/Users/aisyaprasetio/PycharmProjects/pythonstart2/Lesson '
+   '23-26/dist/ShooterGame',
+   'EXECUTABLE')],)
